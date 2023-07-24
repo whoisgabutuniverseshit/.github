@@ -1,5 +1,5 @@
 ## Development for POCO M4 Pro 4G/Redmi Note 11S 4G (`fleur`)
-<img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m4-pro-4g-3.jpg">
+<img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m4-pro-1.jpg">
 
 This organization contains all the important repositories required to build AOSP ROMs for Fleur devices.
 
